@@ -8,3 +8,9 @@
     VITE_ENV = "production"
     VITE_BASE = "/"
   }
+
+[build.environment]
+  NODE_VERSION = "18"
+  NODE_ENV = "production"
+  VITE_ENV = "production"
+  VITE_BASE = "/"
